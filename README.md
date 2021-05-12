@@ -2,6 +2,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Bruception&&show_icons=true&title_color=ffffff&icon_color=4c2882&text_color=daf7dc&bg_color=151515">
 
+<a href="https://www.linkedin.com/in/bruce-berrios-015582197/"><img src="https://img.icons8.com/color/50/000000/linkedin.png"></a>
+
 <!--
 **Bruception/Bruception** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
