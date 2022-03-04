@@ -1,12 +1,4 @@
-### Hi!
-
-<a href="https://github.com/Bruception">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bruception&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&hide_rank=true" alt="Bruce's GitHub stats" />
-</a>
-<br>
-<a href="https://github.com/Bruception">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruception&layout=compact&theme=dracula&hide_border=true&exclude_repo=CNT4713-Project3" />
-</a>
+# (๑･̑◡･̑๑)
 
 <a href="https://www.linkedin.com/in/bruce-berrios-015582197/"><img src="https://img.icons8.com/color/50/000000/linkedin.png"></a>
 
