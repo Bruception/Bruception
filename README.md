@@ -1,6 +1,6 @@
 # (๑･̑◡･̑๑)
 
-<a href="https://www.linkedin.com/in/bruce-berrios-015582197/"><img src="https://img.icons8.com/color/50/000000/linkedin.png"></a>
+<a href="https://www.linkedin.com/in/bruce-berrios-015582197/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <!--
 **Bruception/Bruception** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
