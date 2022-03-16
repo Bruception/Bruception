@@ -4,7 +4,7 @@
 
 [![monkeytype.badge]](https://monkeytype.com/)
 
-[monkeytype.badge]: https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh
+[monkeytype.badge]: https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh%3Fmessage%3D121wpm%26label%3Dmonkeytype%26logoVariant%3Dtwo
 
 
 <!--
