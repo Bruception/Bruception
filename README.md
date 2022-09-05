@@ -1,5 +1,8 @@
 # (๑･̑◡･̑๑)
 
+- Software Engineer @ [Blend](https://blend.com/)
+- Contributor and maintainer of [Monkeytype](https://monkeytype.com/)
+
 <a href="https://www.linkedin.com/in/bruce-berrios-015582197/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <!--
