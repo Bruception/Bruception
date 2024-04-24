@@ -1,4 +1,4 @@
-# (๑･̑◡･̑๑)
+# Bruce Berrios
 
 - Software Engineer @ [Blend](https://blend.com/)
 - Contributor and maintainer of [Monkeytype](https://monkeytype.com/)
